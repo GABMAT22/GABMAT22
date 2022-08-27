@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GABMAT22
 - 👀 I’m interested in front end programming
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning html, css
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
